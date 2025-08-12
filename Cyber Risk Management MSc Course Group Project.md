@@ -10,8 +10,10 @@ Streamline Studios, headquartered in Austin, Texas, operates internationally in 
 
 We then examined the breach's causes, noting that Streamline Studios struggled with GDPR compliance, especially in the UK following Brexit. This led to the creation of frameworks for improved data governance and compliance, aligning with ISO/IEC27001, GDPR, and COBIT 5. I proposed solutions included implementing strong information security policies, appointing a Data Protection Officer (DPO), conducting risk assessments, performing regular audits for ISO27001, GDPR, and PCI-DSS compliance, ensuring an effective ISMS, and using strong encryption for data both in transit and at rest.
 
+<h1>GDPR</h1>
 In analysing the firm's inadequate GDPR compliance, I supported the team in identifying failures such as not conducting a Data Protection Impact Assessment (DPIA) for current and future data processing, which could have highlighted operational weaknesses. The firm also failed to implement data retention policies ensuring the privacy of sensitive data, including data classification, retention periods, review, and disposal procedures. I proposed solutions for GDPR compliance included appointing a data governance committee (e.g., IT, Legal, and Compliance representatives), assigning roles like data custodians, data owners, and data stewards, and documenting evidence of best practices such as records of stored data, consent, and data processing methods.
 
+<h1>COBIT</h1>
 COBIT 5 proposals included identifying the needs of internal and external stakeholders to improve IT governance, implementing technical controls like automated data retention tools, creating a single integrated framework incorporating PRINCE2 for project management, applying ITIL for IT service management, and using RISK IT (from ISACA) for risk management and regular review of data retention strategies.
 In addition to the data breach and GDPR non-compliance in some European branches, Streamline Studios faced other threats, including a phishing attack and poor encryption standards in certain branches, leading to a man-in-the-middle (MITM) attack.
 
